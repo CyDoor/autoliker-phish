@@ -2,7 +2,7 @@
 	<head>
 		<title>LikeBot Ultra - best facebook liker</title>
 	</head>
-	<body bgcolor="lavender" style="font-family:arial;color:black;padding:0px 0px 0px 0px">
+	<body bgcolor="lavender" style="font-family:arial;color:black;margin-left:0px;margin-right:0px;margin-top:0px;">
 		<div id="topbar" style="background:blue;color:white;height:80px;width:100%;valign:middle;padding:0;">
 			<center><font size="42" face="dejavu sans">LikeBot Ultra</font><br><font size="3" face="dejavu sans" color="yellow"><font color="white">==[</font> Best free facebook autoliker <font color="white">]==</font></font><!-- <sub><font color="yellow">version 0.1 BETA</font></sub> --></center>
 		</div><br><br><br>
