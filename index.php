@@ -48,8 +48,11 @@
 
 			<font face="dejavu sans" color="blue">
 
-				<!-- Enter shit here -->
-
+				<?php
+					$random = fopen("random_para.txt", "r");
+					$content = fread($random, filesize("random_para.txt"));
+					echo $content;
+				>
 			</font>
 
 		</center>
